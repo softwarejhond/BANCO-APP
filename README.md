@@ -1,5 +1,5 @@
 # BANCO-APP
 
-#Usuario de prueba
-#Usuario:softwarejhond
-#Contraseña:123456789
+# Usuario de prueba
+# Usuario:softwarejhond
+# Contraseña:123456789
